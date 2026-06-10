@@ -1,5 +1,5 @@
 objectid,format,filename,title,description,latitude,longitude,source,identifier,type,language,rights,rightsstatement,youtubeid,vimeoid,creator,date,subject,location
-coll001,image/jpeg,test001,Via Brescia 7,Ostello L' Archetto,10.0318352,45.1379806,,,,,,,,,,,,
-coll002,image/jpeg,test002,Punto Liberta 10,,10.0314207,45.1374779,,,,,,,,,,,,
-coll003,image/jpeg,test003,CREMONA-V.le Trento e Trieste 59,,10.029233932495117,45.137939453125,,,,,,,,,,,,
-coll004,image/jpeg,test004,Via Francesco Robolotti 30,Pedota Alessandra violinmaker,10.024157524108887,45.13712692260742,,,,,,,,,,,,
+coll001,image/jpeg,test001,Via Brescia 7,Ostello L' Archetto,45.1379806,10.0318352,,,,,,,,,,,,
+coll002,image/jpeg,test002,Punto Liberta 10,,45.1374779,10.0314207,,,,,,,,,,,,
+coll003,image/jpeg,test003,CREMONA-V.le Trento e Trieste 59,,45.137939453125,10.029233932495117,,,,,,,,,,,,
+coll004,image/jpeg,test004,Via Francesco Robolotti 30,Pedota Alessandra violinmaker,45.13712692260742,10.024157524108887,,,,,,,,,,,,
